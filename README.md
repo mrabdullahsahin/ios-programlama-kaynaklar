@@ -10,6 +10,7 @@ iOS Programlama ile ilgili özenle seçilmiş kaynak listesi.
 ### Konu başlıkları
 - [Ana Kaynaklar](#ana-kaynak)
 - [Blog](#blog)
+- [Github](#github)
 - [Video Kaynaklar](#video-kaynaklar)
 - [Ücretli Kaynaklar](#ucretli-kaynaklar)
 - [Mail Listeleri](#mail-listeleri)
@@ -45,6 +46,14 @@ iOS Programlama ile ilgili özenle seçilmiş kaynak listesi.
 - Think and Build It -> [Bağlantı](www.thinkandbuild.it)
 - The Big Nerd Ranch -> [Bağlantı](https://www.bignerdranch.com/blog/)
 - Marco Santarossa -> [Bağlantı](https://marcosantadev.com/)
+- Halil Özel ->[Bağlantı](https://medium.com/@halilozel1903)
+- Yazılım Bilimi -> [Bağlantı](https://www.yazilimbilimi.org/category/programlama/swift/)
+- Mobilhanem -> [Bağlantı](https://www.mobilhanem.com/category/swift-dersleri/)
+
+
+### Github
+- Swift101 -> [Bağlantı](https://github.com/halilozel1903/Swift101)
+- iOSProjects -> [Bağlantı](https://github.com/halilozel1903/iOSProjects)
 
 
 ### Video Kaynaklar
@@ -75,6 +84,8 @@ iOS Programlama ile ilgili özenle seçilmiş kaynak listesi.
 - Code School -> [Bağlantı](https://www.codeschool.com/courses/try-ios)
 - Kindle Basic Training -> [Bağlantı](https://www.letsbuildthatapp.com/course/Kindle-Basic-Training)
 - Instagram Firebase -> [Bağlantı](https://www.letsbuildthatapp.com/course/Instagram-Firebase)
+- iOS 11 & Swift 4: Başlangıçtan İleri Seviyeye Mobil Uygulama -> [Bağlantı](https://www.udemy.com/ios-11-swift-4-baslangictan-ileri-seviyeye-mobil-uygulama/)
+- Swift 4 İle Başlangıçtan İleri Seviyeye Mobil Uygulama -> [Bağlantı](https://www.udemy.com/swift-4-ile-baslangictan-ileri-seviyeye-mobil-uygulama-egitimi/)
 
 
 ### Mail Listeleri
